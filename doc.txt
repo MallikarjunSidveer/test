@@ -1,4 +1,4 @@
-original repo
+repo
 Text from forked repo
 
 text added after forking
